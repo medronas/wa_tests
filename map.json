@@ -349,7 +349,7 @@
         {
          "columns":24,
          "firstgid":1,
-         "image":"..\/map\/Mid-TownD.png",
+         "image":"map\/Mid-TownD.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -894,7 +894,7 @@
         {
          "columns":8,
          "firstgid":577,
-         "image":"..\/map\/floortileset2.png",
+         "image":"map\/floortileset2.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -953,7 +953,7 @@
         {
          "columns":16,
          "firstgid":641,
-         "image":"..\/map\/tilesets_deviant_milkian_123.png",
+         "image":"map\/tilesets_deviant_milkian_123.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1327,7 +1327,7 @@
         {
          "columns":8,
          "firstgid":897,
-         "image":"..\/map\/[A]Grass1_pipo.png",
+         "image":"map\/[A]Grass1_pipo.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -1340,7 +1340,7 @@
         {
          "columns":8,
          "firstgid":945,
-         "image":"..\/map\/[Base]BaseChip_pipo_small.png",
+         "image":"map\/[Base]BaseChip_pipo_small.png",
          "imageheight":1632,
          "imagewidth":256,
          "margin":0,
@@ -1984,7 +1984,7 @@
         {
          "columns":6,
          "firstgid":1353,
-         "image":"..\/map\/logo-transmission64-online-2021-478.png",
+         "image":"map\/logo-transmission64-online-2021-478.png",
          "imageheight":256,
          "imagewidth":192,
          "margin":0,
@@ -2106,7 +2106,7 @@
         {
          "columns":2,
          "firstgid":1401,
-         "image":"..\/roof.png",
+         "image":"roof.png",
          "imageheight":128,
          "imagewidth":64,
          "margin":0,
