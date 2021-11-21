@@ -324,11 +324,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"script",
-                 "type":"string",
-                 "value":"script.js"
-                }, 
-                {
                  "name":"zone",
                  "type":"string",
                  "value":"rooftop1"
@@ -342,6 +337,12 @@
  "nextlayerid":33,
  "nextobjectid":3,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"script.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
  "tileheight":32,
