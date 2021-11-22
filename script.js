@@ -1,1 +1,3 @@
-WA.chat.sendChatMessage('Hello world', 'Mr Robot');
+WA.room.onEnterZone('rooftop1', () => { 
+	WA.room.hideLayer('roof'); 
+})
