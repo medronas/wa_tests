@@ -353,7 +353,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"script.ts"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
