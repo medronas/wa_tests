@@ -1,4 +1,4 @@
-WA.room.onEnterZone('rooftop1', () => { 
+WA.room.onEnterZone('triggerzone', () => { 
 	WA.chat.sendChatMessage('Hello world', 'Mr Robot');
 })
 
