@@ -6,5 +6,5 @@ WA.room.onLeaveZone('trigger', () => {
 WA.room.onEnterZone('trigger', () => {
     WA.chat.sendChatMessage("Hello!", 'Mr Robot');
 	
-	WA.room.setProperty('trigger', 'Opacity', '0,5');
+	WA.room.setProperty('overlay', 'Opacity', '0,5');
 })
