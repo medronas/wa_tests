@@ -1,2 +1,4 @@
-WA.chat.sendChatMessage('Hello world', 'Mr Robot1');
+WA.room.onEnterZone('rooftop1', () => { 
+	WA.chat.sendChatMessage('Hello world', 'Mr Robot');
+})
 
