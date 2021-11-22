@@ -1,4 +1,3 @@
 WA.room.onEnterZone('triggerzone', () => { 
-	WA.chat.sendChatMessage('Hello world', 'Mr Robot');
+	WA.room.hideLayer('overlay'); 
 })
-
