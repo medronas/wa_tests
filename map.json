@@ -72,7 +72,7 @@
                 {
                  "name":"url",
                  "type":"string",
-                 "value":"twitch.html"
+                 "value":"https:\/\/player.twitch.tv\/?channel=dallas&parent=streamernews.example.com&muted=true"
                 }],
          "type":"tilelayer",
          "visible":true,
