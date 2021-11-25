@@ -72,7 +72,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=dallas&parent=streamernews.example.com&muted=true"
+                 "value":"page.html"
                 }],
          "type":"tilelayer",
          "visible":true,
