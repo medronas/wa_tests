@@ -96,6 +96,12 @@
                  "height":262,
                  "id":1,
                  "name":"page",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"page.html"
+                        }],
                  "rotation":0,
                  "type":"website",
                  "visible":true,
@@ -104,12 +110,6 @@
                  "y":552
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"page.html"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
