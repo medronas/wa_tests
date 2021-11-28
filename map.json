@@ -93,7 +93,7 @@
          "name":"page",
          "objects":[
                 {
-                 "height":262,
+                 "height":291,
                  "id":1,
                  "name":"page",
                  "properties":[
@@ -105,9 +105,9 @@
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":440,
-                 "x":936,
-                 "y":552
+                 "width":542,
+                 "x":904,
+                 "y":526
                 }],
          "opacity":1,
          "type":"objectgroup",
