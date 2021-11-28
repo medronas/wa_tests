@@ -106,7 +106,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"url",
                  "type":"string",
                  "value":"page.html"
                 }],
