@@ -40,6 +40,7 @@ html,body { margin: 0; padding: 0; position: relative; }
         width: '100%',
         height: '100%',
         channel: "monstercat"
+          parent: ["play.workadventu.re"]
   });
 </script>
 
@@ -50,16 +51,12 @@ var cls = 'full-height';
 
 function updateInfo() {
         info.textContent = document.body.clientHeight + 'px, #twitch-embed height is ' + embed.clientHeight + 'px';
+        
 }
 updateInfo();
 
-document.getElementById('style').addEventListener('click', function() {
-        if (embed.classList.contains(cls)) {
-                embed.classList.remove(cls);
-        } else {
-                embed.classList.add(cls);
-        }
-        updateInfo();
+document.getElementById('style', function() {
+        embed.classList.add(cls);
 });
 
 </script>
