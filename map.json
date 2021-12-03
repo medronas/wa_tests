@@ -72,7 +72,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.valladay.net\/chat2.html"
+                 "value":"chat.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
